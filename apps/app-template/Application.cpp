@@ -9,6 +9,9 @@ int Application::run()
 {
 	// Put here code to run before rendering loop
 
+
+
+
     // Loop until the user closes the window
     for (auto iterationCount = 0u; !m_GLFWHandle.shouldClose(); ++iterationCount)
     {
